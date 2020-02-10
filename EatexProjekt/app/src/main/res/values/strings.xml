@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">EatexProjekt</string>
+    <string name="witaj_w_eatex">Witaj w Eatex!</string>
+    <string name="dalej">Dalej</string>
+    <string name="todo">TODO</string>
+    <string name="button">Button</string>
+    <string name="title_activity_find_us">Map</string>
+</resources>
